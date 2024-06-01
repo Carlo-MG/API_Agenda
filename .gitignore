@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+.venv
+
+# Ignorar archivos de base de datos SQLite
+*.sqlite3
+
+cert.pem
+key.pem
